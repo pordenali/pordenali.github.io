@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pordenali.github.io/sitemap
+Sitemap: https://pordenali.github.io/app/sitemap
+Sitemap: https://pordenali.github.io/assets/sitemap
+Sitemap: https://pordenali.github.io/css/sitemap
+Sitemap: https://pordenali.github.io/includes/sitemap
+Sitemap: https://pordenali.github.io/item/sitemap
+Sitemap: https://pordenali.github.io/src/sitemap
